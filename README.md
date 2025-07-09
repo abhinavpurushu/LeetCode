@@ -1,6 +1,6 @@
 # LeetCode Submissions
 
-This repository contains all of my submissions for LeetCode coding problems. Each solution is organized by problem and language, allowing for easy reference and review.
+This repository contains all of my submissions for LeetCode coding problems. Each solution is organized by problem and language, making it easy to reference and review. I’m uploading them here for my own future reference and for anyone else who may find them useful.
 
 ## About
 
@@ -10,7 +10,7 @@ This repository contains all of my submissions for LeetCode coding problems. Eac
 
 ## Structure
 
-You may find folders organized by language (e.g., `python/`, `cpp/`) or by problem number/title, depending on submission style.
+You may find folders organized by language (e.g., `python/`, `sql/`) or by problem number/title, depending on submission style.
 
 ## Usage
 
